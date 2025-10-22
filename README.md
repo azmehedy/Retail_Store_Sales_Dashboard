@@ -1,5 +1,5 @@
 # Sales_Dashboard
-![Dashboard](Dashboard_Retail_Store)
+![Dashboard](Dashboard_Retail_Store.png)
 # 📊 Sales Dashboard
 
 A dynamic **Sales Dashboard** designed to visualize and analyze business performance metrics such as revenue trends, top-performing products, regional sales distribution, and customer insights.  

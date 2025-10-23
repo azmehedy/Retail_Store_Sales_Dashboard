@@ -22,8 +22,7 @@ The **Sales Dashboard** provides an interactive platform to:
 
 | Tool / Technology | Purpose |
 |--------------------|----------|
-| **Power BI** | Dashboard design and data visualization |
-| **Microsoft Excel** | Data cleaning and preprocessing |
+| **Microsoft Excel** | Data cleaning and preprocessing |Dashboard design and data visualization |
 | **DAX (Data Analysis Expressions)** | Calculated measures and KPIs |
 | **Power Query** | Data transformation and modeling |
 
@@ -33,4 +32,4 @@ The **Sales Dashboard** provides an interactive platform to:
 
 ✅ Interactive visuals (cards, charts, slicers, and filters)  
 ✅ Dynamic KPIs for Sales, Profit, and Quantity  
-✅ Monthly, Re
+✅ Monthly, Region-wise

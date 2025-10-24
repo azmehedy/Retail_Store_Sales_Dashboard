@@ -1,13 +1,15 @@
-# Sales_Dashboard
+
 ![Dashboard](Dashboard_Retail_Store.png)
-# 📊 Sales Dashboard
+# 📊 Retail Store Sales Dashboard
+
+## Description:
 
 A dynamic **Sales Dashboard** designed to visualize and analyze business performance metrics such as revenue trends, top-performing products, regional sales distribution, and customer insights.  
-This project helps decision-makers identify key growth areas and monitor KPIs in real time.
+This project helps decision-makers identify key growth areas and monitor KPIs in real-time.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview:
 
 The **Sales Dashboard** provides an interactive platform to:
 - Track total sales, profit, and quantity over time.
@@ -18,18 +20,13 @@ The **Sales Dashboard** provides an interactive platform to:
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies:
 
-| Tool / Technology | Purpose |
-|--------------------|----------|
-| **Microsoft Excel** | Data cleaning and preprocessing |Dashboard design and data visualization |
-| **DAX (Data Analysis Expressions)** | Calculated measures and KPIs |
-| **Power Query** | Data transformation and modeling |
+**Microsoft Excel:** Data Cleaning, Preprocessing, Data Transformation, Modeling, Calculated Measures, KPIs, Dashboard Design, and Data Visualization. 
 
 ---
 
-## 📈 Key Features
+## Key Features:
 
 ✅ Interactive visuals (cards, charts, slicers, and filters)  
 ✅ Dynamic KPIs for Sales, Profit, and Quantity  
-✅ Monthly, Region-wise

@@ -1,4 +1,3 @@
-
 ![Dashboard](Dashboard_Retail_Store.png)
 # 📊 Retail Store Sales Dashboard
 
@@ -23,6 +22,11 @@ The **Sales Dashboard** provides an interactive platform to:
 ## Tools & Technologies:
 
 **Microsoft Excel:** Data Cleaning, Preprocessing, Data Transformation, Modeling, Calculated Measures, KPIs, Dashboard Design, and Data Visualization. 
+
+---
+
+## Dataset:
+The dataset used in this project was collected from ChatGPT.
 
 ---
 

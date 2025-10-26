@@ -1,4 +1,7 @@
 ![Dashboard](Dashboard_Retail_Store.png)
+
+---
+
 # 📊 Retail Store Sales Dashboard
 
 ## Description:
